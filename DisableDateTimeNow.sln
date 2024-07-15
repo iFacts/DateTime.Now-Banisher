@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableDateTimeNow", "DisableDateTimeNow\DisableDateTimeNow\DisableDateTimeNow.csproj", "{EC129E24-F194-462B-8459-D63E34A34023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisableDateTimeNow", "DisableDateTimeNow\DisableDateTimeNow\DisableDateTimeNow.csproj", "{EC129E24-F194-462B-8459-D63E34A34023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableDateTimeNow.Vsix", "DisableDateTimeNow\DisableDateTimeNow.Vsix\DisableDateTimeNow.Vsix.csproj", "{7DCF923F-6B6F-4475-8A55-715B8AEB7DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisableDateTimeNow.Vsix", "DisableDateTimeNow\DisableDateTimeNow.Vsix\DisableDateTimeNow.Vsix.csproj", "{7DCF923F-6B6F-4475-8A55-715B8AEB7DDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
